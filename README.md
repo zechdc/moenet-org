@@ -1,2 +1,2 @@
 # moenet-org
-Moenet.org - Food &amp; Beverage Software Consulting
+Moenet.org Public Website - Food &amp; Beverage Software Consulting
